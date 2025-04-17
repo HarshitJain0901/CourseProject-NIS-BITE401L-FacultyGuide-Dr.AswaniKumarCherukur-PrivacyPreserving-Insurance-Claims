@@ -43,16 +43,23 @@ This project implements a **Blockchain-integrated privacy-preserving medical ins
 6. If the hash matches, integrity is verified. Otherwise, tampering is detected.
 
 🚀 Getting Started
+
 🔧 Prerequisites
+
 Python 3.8+
+
 Ganache
+
 Node.js & Truffle
+
 TenSEAL
+
 OpenFHE (if experimenting with BGV/BFV)
 
 ⚙️ Setup
 # Clone the repository
 git clone https://github.com/HarshitJain0901/BITE401L-Privacy-Preserving-Insurance-Claims.git
+
 cd BITE401L-Privacy-Preserving-Insurance-Claims
 
 # Install dependencies
