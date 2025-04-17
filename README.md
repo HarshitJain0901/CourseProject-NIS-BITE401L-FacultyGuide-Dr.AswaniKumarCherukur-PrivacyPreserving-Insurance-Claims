@@ -42,56 +42,27 @@ This project implements a **Blockchain-integrated privacy-preserving medical ins
 5. On retrieval, AES decrypts the file, and hash is recomputed.
 6. If the hash matches, integrity is verified. Otherwise, tampering is detected.
 
-🚀 Getting Started
-
-🔧 Prerequisites
-
-Python 3.8+
 ---
 
-Ganache
-🚀 Getting Started
+## 🔧 Prerequisites
 
-Node.js & Truffle
-🔧 Prerequisites  
 • Python 3.8+  
 • Ganache  
 • Node.js & Truffle  
 • TenSEAL  
 • OpenFHE (optional, for BGV/BFV experiments)
 
-TenSEAL
 ---
-
-OpenFHE (if experimenting with BGV/BFV)
-⚙️ Setup  
-
-⚙️ Setup
-# Clone the repository
-git clone https://github.com/HarshitJain0901/BITE401L-Privacy-Preserving-Insurance-Claims.git
-# Clone the repository  
+## ⚙️ Setup
+# Clone the repository 
 git clone https://github.com/HarshitJain0901/BITE401L-Privacy-Preserving-Insurance-Claims.git  
-
 cd BITE401L-Privacy-Preserving-Insurance-Claims
-cd BITE401L-Privacy-Preserving-Insurance-Claims  
-
-# Install dependencies
-npm install
-pip install -r requirements.txt
 # Install dependencies  
 npm install  
 pip install -r requirements.txt  
-
 # Start local Ethereum node
 ganache-cli
-# Start local Ethereum node  
-ganache-cli  
-
-# Deploy smart contract
-truffle migrate --network development
 # Deploy smart contract  
 truffle migrate --network development  
-
-# Run the client
 # Run the client  
 python src/client.py
