@@ -8,7 +8,7 @@ Institution: VIT Vellore
 
 Department: SCORE
 
-Faculty Guide: Dr. Aswani Cherukuri
+Faculty Guide: Dr. Aswani Kumar Cherukuri
 
 ---
 ## 🧠 Project Overview
