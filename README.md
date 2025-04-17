@@ -1,8 +1,13 @@
 # Blockchain-Based Privacy-Preserving Medical Insurance Claim Processing using Homomorphic Encryption
+
 Course Title: Network and Information Security
+
 Course Code: BITE401L
+
 Institution: VIT Vellore
+
 Department: SCORE
+
 Faculty Guide: Dr. Aswani Cherukuri
 
 ---
