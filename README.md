@@ -55,7 +55,7 @@ This project implements a **Blockchain-integrated privacy-preserving medical ins
 ---
 ## ⚙️ Setup
 # Clone the repository 
-git clone https://github.com/HarshitJain0901/BITE401L-Privacy-Preserving-Insurance-Claims.git ](https://github.com/HarshitJain0901/CourseProject-NIS-BITE401L-FacultyGuide-Dr.AswaniKumarCherukur-PrivacyPreserving-Insurance-Claims.git
+git clone https://github.com/HarshitJain0901/CourseProject-NIS-BITE401L-FacultyGuide-Dr.AswaniKumarCherukur-PrivacyPreserving-Insurance-Claims.git
 cd BITE401L-Privacy-Preserving-Insurance-Claims
 # Install dependencies  
 npm install  
