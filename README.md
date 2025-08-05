@@ -106,23 +106,28 @@ The end-to-end claim workflow:
 ## 🎥 Demo Workflow
 
 1. **Blockchain Server Initialization and Smart Contract Deployment**
-   <img width="503" height="390" alt="image" src="https://github.com/user-attachments/assets/b67e8b15-06fa-477c-a22a-1e11d828c1d7" />
+
+   <img  alt="image" src="https://github.com/user-attachments/assets/b67e8b15-06fa-477c-a22a-1e11d828c1d7" />
 
 2. **Client-Side Medical Data Encryption and Transmission**
-   <img width="503" height="192" alt="image" src="https://github.com/user-attachments/assets/97be71bd-0c62-4c29-95bc-8472fbb91b4a" />
+
+   <img  alt="image" src="https://github.com/user-attachments/assets/97be71bd-0c62-4c29-95bc-8472fbb91b4a" />
 
 3. **Hash Logging on the Blockchain Server**
    
-   <img width="503" height="294" alt="image" src="https://github.com/user-attachments/assets/383ef905-b7bd-49f9-bb9e-4cdbd531e55e" />
+   <img  alt="image" src="https://github.com/user-attachments/assets/383ef905-b7bd-49f9-bb9e-4cdbd531e55e" />
 
-5. **Secure Server-Side Homomorphic Processing**
-   <img width="503" height="60" alt="image" src="https://github.com/user-attachments/assets/895c0c3c-8edc-4c81-acda-004131ec88c5" />
+4. **Secure Server-Side Homomorphic Processing**
 
-6. **Result Hashing and Update on Blockchain**
-    <img width="503" height="90" alt="image" src="https://github.com/user-attachments/assets/116b02d0-092c-4ed5-ad01-73970af4b440" />
+   <img  alt="image" src="https://github.com/user-attachments/assets/895c0c3c-8edc-4c81-acda-004131ec88c5" />
 
-7. **Client-Side Result Retrieval and Integrity Verification**
-    <img width="503" height="96" alt="image" src="https://github.com/user-attachments/assets/2e063f6d-316a-47ea-ba74-ea8ac959d268" />
+5. **Result Hashing and Update on Blockchain**
+
+    <img  alt="image" src="https://github.com/user-attachments/assets/116b02d0-092c-4ed5-ad01-73970af4b440" />
+
+6. **Client-Side Result Retrieval and Integrity Verification**
+
+     <img  alt="image" src="https://github.com/user-attachments/assets/2e063f6d-316a-47ea-ba74-ea8ac959d268" />
 
 ---
 
